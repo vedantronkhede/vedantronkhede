@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Ronkhede</h1>
 <h3 align="center">A developer from India, pursuing BE from NBN Sinhgad School Of Engineering Pune, Maharashtra. A curious observer and algorithmist with the ample experience in the filed of Data Science, AI and Generative AI. Have ingrained passion towards Software Development and Web Dev creation. Also open for the opportunities in Data Science and AI. Looking forward for Research and Development and Innovations and solving real-world problems.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F06%2F01%2F17%2F18%2F360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg&tbnid=s6wSpS44H7ORgM&vet=12ahUKEwiu__2vnumEAxWCnGMGHcHJDnkQMygPegQIARB5..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&docid=LfiF16KcHDAXgM&w=540&h=360&q=animated%20images%20coder&ved=2ahUKEwiu__2vnumEAxWCnGMGHcHJDnkQMygPegQIARB5">
+<img align="right" alt="Coding" width="400" src="[[https://www.google.com/imgres?imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F06%2F01%2F17%2F18%2F360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg&tbnid=s6wSpS44H7ORgM&vet=12ahUKEwiu__2vnumEAxWCnGMGHcHJDnkQMygPegQIARB5..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&docid=LfiF16KcHDAXgM&w=540&h=360&q=animated%20images%20coder&ved=2ahUKEwiu__2vnumEAxWCnGMGHcHJDnkQMygPegQIARB5](https://images.app.goo.gl/Jhi93Ew9gqRNhrF29)](https://images.app.goo.gl/Jhi93Ew9gqRNhrF29)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantronkhede&label=Profile%20views&color=0e75b6&style=flat" alt="vedantronkhede" /> </p>
 
